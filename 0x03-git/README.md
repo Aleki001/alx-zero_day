@@ -1,1 +1,1 @@
-My first commit. I am happy about learning this in ALX.
+I am happy about learning this in ALX. I love git
